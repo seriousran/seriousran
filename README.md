@@ -1,8 +1,6 @@
 ### Generalist X Specialist 🦄
 
-I try to research everything to solve 🌱 human problems. As a Generalist💫 and Specialist✨, I am interested in Computer Vision😎 and Natural Language Processing📚 using ML/DL. 
-
-Feel free to contact me directly at 📫 seriousran@gmail.com
+I try to research everything to solve 🌱 human problems. As a Generalist💫 and Specialist✨, I am interested in Computer Vision😎 and Natural Language Processing📚 using ML/DL. Feel free to contact me directly at 📫 seriousran@gmail.com
 
 <!--
 **seriousran/seriousran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
