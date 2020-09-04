@@ -1,7 +1,9 @@
 ### Generalist X Specialist 🦄
 
 <div align=right>
-  
+
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-41C8FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/seriousran)](https://www.kaggle.com/seriousran)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanran-kim/)](https://www.linkedin.com/in/chanran-kim/) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseriousran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
