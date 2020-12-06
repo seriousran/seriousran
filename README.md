@@ -12,7 +12,7 @@ I try to research everything to solve 🌱 human problems. As a Generalist💫 a
 
 - Vision AI Generation Team @ NCSOFT
 - Data Science Global Ambassador @ Z by HP & NVIDIA
-- Director @ [PresudoLab](https://pseudo-lab.com/)
+- Builder @ [PresudoLab](https://pseudo-lab.com/)
 
 [![Chanran Kim's github stats](https://github-readme-stats.vercel.app/api?username=seriousran&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousran&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
