@@ -14,7 +14,7 @@ I try to research everything to solve 🌱 human problems. As a Generalist💫 a
 - [Data Science Global Ambassador @ Z by HP & NVIDIA](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html)
 - Builder @ [PresudoLab](https://pseudo-lab.com/)
 
-"And we know that in all things God works for the good of those who love him, who[a] have been called according to his purpose." (Romans 8:28)
+"And we know that in all things God works for the good of those who love him, who have been called according to his purpose." (Romans 8:28)
 
 [![Chanran Kim's github stats](https://github-readme-stats.vercel.app/api?username=seriousran&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousran&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
