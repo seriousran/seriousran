@@ -11,7 +11,7 @@
 I try to research everything to solve 🌱 human problems. As a Generalist💫 and Specialist✨, I am interested in Computer Vision😎 and Natural Language Processing📚 using ML/DL. Feel free to contact me directly at 📫 seriousran@gmail.com
 
 Current
-- Vision AI Generation Team @ NCSOFT (2020-)
+- Vision AI Lab Generation Team @ NCSOFT (2020-)
 - [Data Science Global Ambassador @ Z by HP & NVIDIA](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html) (2020-)
 - Builder @ [PresudoLab](https://pseudo-lab.com/) (2020-)
 - Meetup Organizer in Seoul @ Kaggle Days (2020-)
