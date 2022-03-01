@@ -18,6 +18,7 @@ Current
 
 Past
 - Search & AI Team @ ZUM (2018-2020)
+- Mixed Reality Lab @ Hanyang Univ. for M.S. (2016-2020)
 
 "And we know that in all things God works for the good of those who love him, who have been called according to his purpose." (Romans 8:28)
 
