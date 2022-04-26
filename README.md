@@ -15,7 +15,7 @@ Current
 - Vision AI Lab Generation Team @ NCSOFT (2020-)
 - [Data Science Global Ambassador @ Z by HP & NVIDIA](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html) (2020-)
 - Builder @ [PresudoLab](https://pseudo-lab.com/) (2020-)
-- Meetup Organizer in Seoul @ Kaggle Days (2020-)
+- Meetup Organizer in Seoul @ [Kaggle Days](https://kaggledays.com/) (2020-)
 
 Past
 - Search & AI Team @ ZUM (2018-2020)
