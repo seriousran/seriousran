@@ -9,15 +9,25 @@
 
 </div>
 
-I try to research everything to solve 🌱 human problems. As a Generalist💫 and Specialist✨, I am interested in Computer Vision😎 and Natural Language Processing📚 using ML/DL. Feel free to contact me directly at 📫 seriousran@gmail.com
+✨ I am a developer who creates non-linear growth through chance encounters in an uncertain world.
+
+⚡ I am passionate about using machine learning to solve human problems and contribute to fundamental science research. 
+⚡ I am actively researching in the area of multimodal and currently focusing on generative models. 
+
+🌱 I founded a non-profit community based on machine learning and data science called Pseudo Lab, where we run academic programs, various social activities, and various events. 
+🔭 With the core values of sharing, motivation, and delighted to work together, we strive to develop a new type of growth system that has never existed before, bridge the gap in education, and create opportunities for growth and achievement.
+
+📫 Feel free to contact me directly at seriousran@gmail.com
 
 Current
-- Vision AI Lab Generation Team @ NCSOFT (2020-)
-- [Data Science Global Ambassador @ Z by HP & NVIDIA](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html) (2020-)
-- Builder @ [PresudoLab](https://pseudo-lab.com/) (2020-)
+- [MVP(Most Valuable Professional) @ Microsoft](https://mvp.microsoft.com/en-US/PublicProfile/5005260?fullName=Chanran%20Kim) (2023-)
+- Multimodal AI Research Engineer @ SK Telecom (2022-)
+- [Data Science Global Ambassador @ Z by HP (& NVIDIA)](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html) (2020-)
+- Founder @ [PresudoLab](https://pseudo-lab.com/) (2020-)
 - Meetup Organizer in Seoul @ [Kaggle Days](https://kaggledays.com/) (2020-)
 
 Past
+- Vision AI Lab Generation Team @ NCSOFT (2020-2022)
 - Search & AI Team @ ZUM (2018-2020)
 - Mixed Reality Lab @ Hanyang Univ. for M.S. (2016-2020)
 
