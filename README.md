@@ -20,18 +20,20 @@
 📫 Feel free to contact me directly at seriousran@gmail.com
 
 Current
-- [MVP(Most Valuable Professional) @ Microsoft](https://mvp.microsoft.com/en-US/PublicProfile/5005260?fullName=Chanran%20Kim) (2023-)
-- Multimodal AI Research Engineer @ SK Telecom (2022-)
-- [Data Science Global Ambassador @ Z by HP (& NVIDIA)](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html) (2020-)
+- Senior Developer Relations Manager @ NVIDIA (2024-)
 - Founder @ [PresudoLab](https://pseudo-lab.com/) (2020-)
-- Meetup Organizer in Seoul @ [Kaggle Days](https://kaggledays.com/) (2020-)
 
 Past
+- [MVP(Most Valuable Professional) @ Microsoft](https://mvp.microsoft.com/en-US/PublicProfile/5005260?fullName=Chanran%20Kim) (2023-24)
+- Multimodal AI Research Engineer @ SK Telecom (2022-2024)
+- [Data Science Global Ambassador @ Z by HP (& NVIDIA)](http://datascience-pro.hp.com/us/en/our-ambassadors/chanran-kim.html)
 - Vision AI Lab Generation Team @ NCSOFT (2020-2022)
 - Search & AI Team @ ZUM (2018-2020)
 - Mixed Reality Lab @ Hanyang Univ. for M.S. (2016-2020)
 
 "And we know that in all things God works for the good of those who love him, who have been called according to his purpose." (Romans 8:28)
+
+"But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me." (1 Corinthians‬ ‭15‬:‭10‬)
 
 [![Chanran Kim's github stats](https://github-readme-stats.vercel.app/api?username=seriousran&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousran&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
