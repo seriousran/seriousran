@@ -5,7 +5,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-41C8FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/seriousran)](https://www.kaggle.com/seriousran)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanran-kim/)](https://www.linkedin.com/in/chanran-kim/) 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw)](https://www.youtube.com/channel/UCWnc2XGGO9EqNcuXP-FVsuw) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseriousran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -34,8 +33,6 @@ Past
 "And we know that in all things God works for the good of those who love him, who have been called according to his purpose." (Romans 8:28)
 
 "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me." (1 Corinthians‬ ‭15‬:‭10‬)
-
-[![Chanran Kim's github stats](https://github-readme-stats.vercel.app/api?username=seriousran&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousran&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seriousran/seriousran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
